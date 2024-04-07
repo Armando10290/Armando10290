@@ -22,9 +22,9 @@
 
 ### ![Portada de Facebook Community Manager Gradiente Morado (1)](https://github.com/Armando10290/Armando10290/assets/164764295/7baf48b0-2b63-482d-8865-cf241ca39542)
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programacion
 
 <p align="center"> 
   &emsp; 
@@ -48,11 +48,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
-## 🙋🏻‍♂️ Contactame
-<p align="center">
-	<a href="https://www.facebook.com/misael221"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/armend452/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos.
  
 <p align="center">
   &emsp;
@@ -67,3 +64,8 @@
 <br> 
 
 ---
+
+## 🙋🏻‍♂️ Contactame
+<p align="center">
+	<a href="https://www.facebook.com/misael221"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/armend452/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
