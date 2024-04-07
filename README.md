@@ -14,7 +14,8 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-Acerca de mi🧑:
+
+# Acerca de mi🧑:
 Soy estudiante de la carrera de Ingenieria en Sistemas Computacionales.
 Estoy interesado en la espcializarme en Ciberseguridad y en Administracion de Sistemas de Informacion.
 Y siempre estpy dispuesto aprender cosas nuevas relacionadas con la tecnologia.
