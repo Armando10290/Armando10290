@@ -20,7 +20,8 @@
 ## Estoy interesado en la espcializarme en Ciberseguridad y en Administracion de Sistemas de Informacion.
 ## Y siempre estpy dispuesto aprender cosas nuevas relacionadas con la tecnologia.
 
-###### ![Black And White Simple Dark Facebook Profile Picture](https://github.com/Armando10290/Armando10290/assets/164764295/dfee9f5a-3e30-42c6-b656-a24ab33fbf39)
+### ![Portada de Facebook Community Manager Gradiente Morado (1)](https://github.com/Armando10290/Armando10290/assets/164764295/7baf48b0-2b63-482d-8865-cf241ca39542)
+
 ## 🙋🏻‍♂️ Contactame
 <p align="center">
 	<a href="https://www.facebook.com/misael221"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
