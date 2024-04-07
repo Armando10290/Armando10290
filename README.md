@@ -1,4 +1,5 @@
-## HOLA BIENVENIDOS 👋
+ HOLA BIENVENIDOS 👋
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![Portada de Facebook Community Manager Gradiente Morado](https://github.com/Armando10290/Armando10290/assets/164764295/35974aeb-78f7-486e-a8e1-e66c04b96149)
 
 <!--
