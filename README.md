@@ -14,6 +14,10 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
+##  Acerca de mi🧑:
+Soy estudiante de la carrera de Ingenieria en Sistemas Computacionales.
+Estoy interesado en la espcializarme en Ciberseguridad y en Administracion de Sistemas de Informacion.
+Y siempre estpy dispuesto aprender cosas nuevas relacionadas con la tecnologia.
 
 ![Portada de Facebook Community Manager Gradiente Morado](https://github.com/Armando10290/Armando10290/assets/164764295/2a4e5e75-9f12-4b87-910b-249b6c242b8e)
 
