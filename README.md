@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Portada de Facebook Community Manager Gradiente Morado](https://github.com/Armando10290/Armando10290/assets/164764295/35974aeb-78f7-486e-a8e1-e66c04b96149)
 
 <!--
 **Armando10290/Armando10290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
