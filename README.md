@@ -13,6 +13,8 @@
   </ul>
 </div>
 
+![Portada de Facebook Community Manager Gradiente Morado](https://github.com/Armando10290/Armando10290/assets/164764295/2a4e5e75-9f12-4b87-910b-249b6c242b8e)
+
 <!--
 **Armando10290/Armando10290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
